@@ -12,7 +12,7 @@
 ## Installation:
 
 * To install this code, download the zip file, or use GitHub's guidelines to clone the repository.
-Usage:
+## Usage:
  
 * To execute file, open in browser.
 
